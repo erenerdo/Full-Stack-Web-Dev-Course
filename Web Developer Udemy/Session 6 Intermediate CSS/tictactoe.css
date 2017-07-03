@@ -1,0 +1,148 @@
+body{
+	text-align: center;
+}
+table{
+	margin:0 auto;
+}
+td{
+	padding:0;
+}
+tr{
+	padding:0;
+}
+ #top-right{
+ 	
+ 	border-left: 1px black solid;
+ 	border-bottom: 1px black solid;
+ 	border-top:0;
+ 	border-right:0;
+
+ 	margin-left: 0;
+ 	padding-left:0;
+ 	padding-bottom:0;
+
+ 	width:100px;
+ 	height:100px
+
+ }
+ #top-middle{
+ 	
+ 	border-left: 0;
+ 	border-bottom: 1px black solid;
+ 	border-top:0;
+ 	border-right:0;
+
+ 	margin-left: 0;
+ 	padding-left:0;
+ 	padding-right:0;
+ 	margin-right:0;
+ 	padding-bottom:0;
+
+ 	width:100px;
+ 	height:100px
+ }
+#top-left{
+ 	
+ 	border-left: 0;
+ 	border-bottom: 1px black solid;
+ 	border-top:0;
+ 	border-right:1px black solid;
+
+ 	margin-left: 0;
+ 	padding-left:0;
+ 	padding-bottom:0;
+
+ 	width:100px;
+ 	height:100px
+ }
+
+ #middle-right{
+ 	
+ 	border-left: 1px black solid;
+ 	border-bottom: 0;
+ 	border-top:0;
+ 	border-right:0;
+
+ 	margin-left: 0;
+ 	padding-left:0;
+ 	padding-bottom:0;
+ 	padding-top:0;
+
+ 	width:100px;
+ 	height:100px
+
+ }
+ #middle-middle{
+ 	
+ 	border-left: 0;
+ 	border-bottom: 0;
+ 	border-top:0;
+ 	border-right:0;
+
+ 	margin-left: 0;
+ 	padding-left:0;
+ 	padding-right:0;
+ 	margin-right:0;
+ 	padding-bottom:0;
+ 	padding-top:0;
+
+ 	width:100px;
+ 	height:100px
+ }
+#middle-left{
+ 	
+ 	border-left: 0;
+ 	border-bottom: 0;
+ 	border-top:0;
+ 	border-right:1px black solid;
+
+ 	margin-left: 0;
+ 	padding-right:0;
+ 	padding-bottom:0;
+ 	padding-top:0;
+
+ 	width:100px;
+ 	height:100px
+ }
+ #bottom-right{
+ 	
+ 	border-left: 1px black solid;
+ 	border-bottom: 0;
+ 	border-top:1px black solid;
+ 	border-right:0;
+
+ 	margin-left: 0;
+ 	padding-top:0;
+
+ 	width:100px;
+ 	height:100px
+
+ }
+ #bottom-middle{
+ 	
+ 	border-left: 0;
+ 	border-bottom: 0;
+ 	border-top:1px black solid;
+ 	border-right:0;
+
+ 	margin-left: 0;
+ 	padding-left:0;
+ 	padding-top:0;
+ 	margin-right:0;
+
+ 	width:100px;
+ 	height:100px
+ }
+#bottom-left{
+ 	
+ 	border-left: 0;
+ 	border-bottom: 0;
+ 	border-top:1px black solid;
+ 	border-right:1px black solid;
+
+ 	margin-left: 0;
+ 	padding-top:0;
+
+ 	width:100px;
+ 	height:100px
+ }
