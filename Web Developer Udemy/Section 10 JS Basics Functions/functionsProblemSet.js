@@ -1,10 +1,10 @@
 // Problem 1, isEven()
-console.log("Problem 1: isEven()")
-function isEven(num){
-	return num % 2 === 0;
+console.log('Problem 1: isEven()');
+function isEven(num) {
+  return num % 2 === 0;
 }
 
-console.log("Checking if 4 is even: " + isEven(4));
+console.log('Checking if 4 is even: " + isEven(4)');
 console.log("Checking if 21 is even: " + isEven(21));
 console.log("Checking if 68 is even: " + isEven(68));
 console.log("Checking if 333 is even: " + isEven(333));
@@ -13,7 +13,7 @@ console.log("Checking if 333 is even: " + isEven(333));
 console.log("\nProblem 2: factorial()")
 
 function factorial(num){
-	var fact = 1;
+  var fact = 1;
 
 	for (var i = 2; i <= num; i++){
 		fact *= i;
@@ -25,7 +25,7 @@ console.log("Factorial of 0 is " + factorial(0) );
 console.log("Factorial of 7 is " + factorial(7) );
 
 // Problem 3, kebabToSnake()
-console.log("\nProblem 3: kebabToSnake()")
+console.log("\nProblem 3: kebabToSnake()");
 function kebabToSnake(str){
 
 	for (var i = 0; i < str.length; i++){
